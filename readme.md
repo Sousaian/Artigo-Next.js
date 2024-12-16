@@ -16,7 +16,8 @@ Este repositório contém o artigo completo sobre como utilizar os frameworks **
 
 ## 🌐 Link para o artigo  
 
-[Leia o artigo completo aqui](#) _(https://web.dio.me/articles/desvendando-nextjs-e-nestjs-a-combinacao-perfeita-para-aplicacoes-full-stack-de-alto-desempenho?back=%2Farticles&page=1&order=oldest)._  
+[Leia o artigo completo aqui](https://web.dio.me/articles/desvendando-nextjs-e-nestjs-a-combinacao-perfeita-para-aplicacoes-full-stack-de-alto-desempenho?back=%2Farticles&page=1&order=oldest)
+
 
 ---
 
